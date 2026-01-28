@@ -113,3 +113,5 @@ In consultation with the event organizing team, well-founded exceptions to these
 ## Further Resources
 
 You can find further guides and handbooks [here](https://github.com/dribdat/awesome-hackathon#guides).
+
+❤️ This Hackathon Handbook is largely based on the [work](https://opendata.ch/handbook/) of our friends at [Opendata.ch](https://opendata.ch/).
