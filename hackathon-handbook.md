@@ -14,7 +14,7 @@ We want to work on real problems and ideas. These should be formulated as “Cha
 * an issue or need articulated by users or stakeholders, which needs to be further understood together with others
 * …an intriguing idea of some other kind that needs to see the light of day
 
-## Form – Tell a story
+### Form – Tell a story
 
 Good form is, however, dramatically important to launch effective projects:
 
